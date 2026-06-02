@@ -1,6 +1,6 @@
 # Phishing Simulation – Internee.pk
 
-Phishing awareness project using **GoPhish** to simulate phishing attacks against Internee.pk’s team. The simulation tested employee awareness, tracked interactions, and generated a security training report to strengthen defenses against social engineering.
+Phishing awareness project using **GoPhish** to simulate phishing attacks against Internee.pk’s team. The simulation tested employee awareness, tracked interractions, and generated a security training report to strengthen defenses against social engineering.
 
 ---
 
